@@ -1,0 +1,41 @@
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+
+/* Navbar */
+.navbar {
+    border-radius: 0;
+    border: none;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.navbar-nav {
+    background-color: #ffcccb; /* Dropdown background color */
+}
+
+.navbar-nav li a {
+    color: #333;
+    text-align: center;
+}
+
+/* Page Heading */
+header h1 {
+    margin: 20px 0;
+    font-size: 2.5rem;
+    color: #333;
+}
+
+/* Content Section */
+.content-section {
+    background-color: #e0e4e7;
+    height: 1000px;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
